@@ -1,0 +1,20 @@
+h1 {
+  background-color: aqua;
+  color: red;
+  padding: 0px 0px 0px auto;
+}
+
+.test {
+  color: black;
+
+  padding: 5px 3px 5px 3px;
+  text-decoration: none;
+}
+.test {
+  padding: auto;
+  border: 2px solid red;
+}
+.test:hover {
+  color: #fff;
+  background-color: #333;
+}
